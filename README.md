@@ -35,6 +35,13 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 - **Tools & Software:** Microsoft Office
 - **IT & Networking:** Basic server maintenance, vulnerability scanning
 
+# My GitHub Stats
+
+![Safal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sthasafal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sthasafal&layout=compact&theme=radical)
+
+
 ## Contact
 📧 Email: shresthasafal72@gmail.com  
 🔗LinkedIn: [Safal Shrestha](linkedin.com/in/safal-shrestha-78b203293)
