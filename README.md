@@ -12,7 +12,7 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 - Implemented a fitness function to favor sequences with hydrophilic ends and a hydrophobic center.
 - Used the Needleman-Wunsch algorithm and BLOSUM50 matrix for sequence alignment analysis.
 - Visualized fitness trends and alignment scores using `matplotlib`.
-- [Project Repository](# )
+- [Project Repository](https://github.com/sthasafal/Genetic-Algorithm )
 
 ### 2. **Simplified C-like Language File Reader**  
 💻 *Custom Parser for CCX Language*  
