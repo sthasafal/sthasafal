@@ -44,7 +44,7 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 
 ## Contact
 📧 Email: shresthasafal72@gmail.com  
-🔗LinkedIn: [Safal Shrestha](linkedin.com/in/safal-shrestha-78b203293)
+🔗LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/safal-shrestha-78b203293/)
 
 
 ---
