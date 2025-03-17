@@ -27,7 +27,7 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 - [Project Repository](#)
 
 ## Skills & Technologies
-- **Programming Languages:** Python, Standard ML, C++
+- **Programming Languages:** Python, Java, C/C++
 - **Tools & Frameworks:** Git, GitHub, NumPy, Matplotlib
 - **Areas of Interest:** Machine Learning, AI, Software Devlopment, Computational Biology, Algorithm Design
 - **Web Development:** HTML, CSS
