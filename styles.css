@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #121212;
+    color: #e0e0e0;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    padding: 40px;
+    color: white;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.projects ul {
+    list-style: none;
+    padding: 0;
+}
+
+.projects li {
+    background: rgba(255, 255, 255, 0.1);
+    margin: 10px;
+    padding: 12px;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.projects li:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
+}
+
+.contact a {
+    color: #6e8efb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 15px;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    font-size: 0.9em;
+}
