@@ -18,7 +18,7 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 💻 *Custom Parser for CCX Language*  
 - Designed a file reader to handle token recognition and parsing for a C-like language (CCX).
 - Implemented string recognition and enhanced token handling.
-- [Project Repository](#)
+- [Project Repository](https://github.com/sthasafal/Lexer-Oprator)
 
 ### 3. **Standard ML Functional Programming**  
 ⚡ *Exploring Functional Paradigms*  
