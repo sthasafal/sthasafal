@@ -20,14 +20,17 @@ Hi, I'm Safal Shrestha! I am a Computer Science student at the University of Ida
 - Implemented string recognition and enhanced token handling.
 - [Project Repository](https://github.com/sthasafal/Lexer-Oprator)
 
-### 3. **Standard ML Functional Programming**  
-⚡ *Exploring Functional Paradigms*  
-- Implemented recursive algorithms, pattern matching, and type inference in SML.
-- Developed functions to explore immutability and first-class functions.
-- [Project Repository](#)
+### 3. **Movie Recommendation Systemg**  
+⚡ **  
+- Built a Movie Recommendation System that suggests movies based on user preferences, ratings, and watch history.
+- Developed a recommendation engine using collaborative and content-based filtering to improve movie suggestions.
+- Created a user-friendly web interface where users can create profiles, rate movies, and manage their watchlists.
+- Integrated IMDb and TMDb APIs to fetch real-time movie details like ratings and genres.
+- Used Java with Spring Boot for the backend and React.js for the frontend
+- [Project Repository](https://github.com/sthasafal/movieRecomendationSystem)
 
 ## Skills & Technologies
-- **Programming Languages:** Python, Java, C/C++
+- **Programming Languages:** Python, Java, C/C++, JavaScript
 - **Tools & Frameworks:** Git, GitHub, NumPy, Matplotlib
 - **Areas of Interest:** Machine Learning, AI, Software Devlopment, Computational Biology, Algorithm Design
 - **Web Development:** HTML, CSS
